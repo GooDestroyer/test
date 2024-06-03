@@ -99,5 +99,3 @@ mongoose.connect(
     }
   }
 );
-
-ByteLengthQueuingStrategy.apply.apply.apply.apply.apply.apply.apply.apply.apply.apply.apply.
